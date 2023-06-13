@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 int main() {
-	int x; 
+	string x; 
 	std::cin >> x;
+	cout << x;
 	return 0;
 }
